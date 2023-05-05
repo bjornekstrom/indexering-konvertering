@@ -17,7 +17,7 @@ Kort instruktion för att komma igång med Jupyter Notebooks för att hantera oc
 
 (Kräver installation av ett Python-gränssnitt, t ex [Anaconda](https://www.anaconda.com/))
 
-* Hämta filen [indexering-konvertering-jupyter.ipynb](indexering-konvertering-jupyter.ipynb) till din hårddisk.
+* Hämta [indexering-konvertering-jupyter.ipynb](indexering-konvertering-jupyter.ipynb) till din hårddisk.
 * Ladda ner och installera [Anaconda](https://www.anaconda.com/).
 * Öppna Jupyter Notebook via Anaconda Navigator.
 * Välj *File* -> *Open*...
