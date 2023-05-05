@@ -8,7 +8,7 @@ Kort instruktion för att komma igång med Jupyter Notebooks för att hantera oc
 
 * Hämta [indexering-konvertering-colab.ipynb](indexering-konvertering-colab.ipynb) till din hårddisk.
 * Navigera till Google Colab: https://colab.research.google.com/.
-* Välj Arkiv -> Öppna anteckningsbok.
+* Välj *Arkiv* -> *Öppna anteckningsbok*.
 * Navigera till den plats på din hårddisk där du sparat [indexering-konvertering-colab.ipynb](indexering-konvertering-colab.ipynb).
 * Klicka på filen.
 * Följ instruktionerna och klicka på *Play*-knappen bredvid varje kodruta för att köra koden.
