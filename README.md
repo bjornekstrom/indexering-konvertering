@@ -1,6 +1,6 @@
 # Ämnesordsindexering och datakonvertering
 
-Kort instruktion för att komma igång med Jupyter Notebooks för att hantera och konvertera ämnesordsindexerade manifestationer.
+Kort instruktion för att komma igång med Jupyter Notebooks för att hantera ämnesordsindexerade manifestationer och konvertera dessa till olika metadataformat.
 
 ## Google Colab
 
